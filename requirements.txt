@@ -1,0 +1,9 @@
+nba_api
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+jupyter
+python-dotenv
+requests
